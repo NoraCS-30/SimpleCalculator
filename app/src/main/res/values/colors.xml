@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#c2e1f0</color>
+    <color name="ButtonOpreation">#ffb412</color>
+    <color name="ButtonNumber">#03abfc</color>
+    <color name="ButtonEgual">#00d12d</color>
+    <color name="ButtonDelelet">#fc5238</color>
+    <color name="white">#f7f7f7</color>
+    <color name="black">#000000</color>
+</resources>
