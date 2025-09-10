@@ -4,9 +4,8 @@ import org.jetbrains.kotlin.ir.backend.js.compile
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
-    id("org.sonarqube") version "3.3"
+    id("org.sonarqube") version "6.3.1.5724"
 }
-
 android {
     namespace = "com.example.project"
     compileSdk = 34
